@@ -1,4 +1,4 @@
-<h3> Intro ...</h3>
+# Intro ...
 Hi, I’m <b>@arxdesignco</b>
 
 <h3> I’m Interested In ... </h3>
