@@ -11,9 +11,9 @@ Hi, I’m <b>@arxdesignco</b>
 - 💞️ I’m looking to collaborate on ...
 
 <h3>How To Reach Me ... </h3>
-       - http://arxdesign.co/
-  </br>- https://instagram.com/arxdesignco/
-  </br>- https://facebook.com/arxdesignco/
+Website: http://arxdesign.co/ </br>
+Instagram: https://instagram.com/arxdesignco/ </br>
+Facebook: https://facebook.com/arxdesignco/
 
 <!---
 arxdesignco/arxdesignco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
